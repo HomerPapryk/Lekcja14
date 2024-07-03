@@ -1,0 +1,8 @@
+.box {
+  width: 200px; /* szerokość boxa */
+  height: 200px; /* wysokość boxa */
+  margin: 20px; /* margines */
+  padding: 20px; /* padding */
+  border: 20px solid #93bc47; /* obramowanie */
+  background-color: #ffffff; /* kolor tła */
+}
